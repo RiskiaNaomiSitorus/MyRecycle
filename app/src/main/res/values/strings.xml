@@ -1,0 +1,50 @@
+<resources>
+    <string name="appp_name_riskianaomi">Book</string>
+    <string name="riskianaomisitorus_app_name">Book</string>
+    <string name="info_book_icon_riskianaomi">Ikon Book</string>
+    <string name="info_book_name">Nama Group</string>
+    <string name="info_book_desc">Deskripsi</string>
+    <string name="ifs21050">ifs21046</string>
+    <string name="riskia">Book</string>
+    <string name="riskia_naomi">Book</string>
+    <string name="riskianaomi_about">About</string>
+
+    <string-array name="riskianaomi_name">
+        <item>Menyerah Bukan Pilihan</item>
+        <item>Hanya Imajinasi</item>
+        <item>Air Akar</item>
+        <item>Cerita dari Timur</item>
+        <item>Stop or Never</item>
+        <item>Harga Sebuah Percaya</item>
+        <item>Love Letters For The Future You</item>
+        <item>Laluba</item>
+        <item>Orang-orang Pinggiran</item>
+        <item>Cinta Tak Ada Mati</item>
+    </string-array>
+
+    <string-array name="riskianaomi_icon">
+        <item>@drawable/book1</item>
+        <item>@drawable/book2</item>
+        <item>@drawable/book17</item>
+        <item>@drawable/book7</item>
+        <item>@drawable/book10</item>
+        <item>@drawable/book15</item>
+        <item>@drawable/book12</item>
+        <item>@drawable/book18</item>
+        <item>@drawable/book19</item>
+        <item>@drawable/book13</item>
+    </string-array>
+
+    <string-array name="book_description">
+        <item>Tatkala virus korona melanda, warta tentang keganasannya menyebar secepat kilat. la dengan rakus menggerogoti berbagai sendi kehidupan. Umat manusia mendadak diliputi kegelisahan. Banyak yang kewalahan, hingga berada di titik nadir. Buku ini terdiri dari 30 cerpen yang terinspirasi dari kisah nyata, mereka yang berjuang di tengah wabah. Berisi lakon para pejuang rupiah, pejuang ilmu yang belajar di rumah, petugas medis yang berjibaku di garda depan, serta makna cinta dalam keluarga. Untaian kisah disajikan dengan apik. Tak melulu tentang pilu dan Iara, tetapi juga ada asa, jenaka, dan bahagia.</item>
+        <item>Merangkai kata menjadi deretan kalimat bagai lagu indah yang dibaca orangorang yang tertarik. Diriku yang lemah ini tidak akan mengibaratkan diri seperti Tuhan yang mampu menciptakan kehidupan. Tapi dengan kehidupan yang Tuhan ciptakan, aku selalu punya alasan untuk menciptakan cerita tentang hidup seseorang. Sekumpulan cerita pendek tentang kisah cinta, persahabatan, dan permasalahan yang terjadi di lingkungan sekolah, pergaulan, maupun keluarga yang ditampilkan dalam keluguan sudut pandang seorang remaja.</item>
+        <item>Air Akar adalah kumpulan cerpen karya finalis Kompetisi Tulis Nusantara 2012, yang memuat sepuluh cerpen terbaik, diantara lebih dari seribu karya fiksi yang masuk dan diseleksi pada even tersebut. Air Akar juga menjadi cerita pembuka dalam kumpulan cerpen ini, berkisah tentang kepercayaan masyarakat.</item>
+        <item>Cerita dari Timur merupakan buku antologi kumpulan cerita pendek yang ditulis oleh sembilan orang dari berbagai latar belakang. Lewat ragam cerita dalam berbagai rupa, buku ini mencoba menyuguhkan sisi cutting edge budaya ketimuran. Issue tentang cinta, sosiologi, politik, psikologi, ekonomi, folk, antropologi, hukum, sosial, serta issue issue yang cenderung anomali, merupakan menu sekaligus komposisi yang terdapat di dalam buku ini.</item>
+        <item>Berkarya, berdaya guna di kehidupan ini akan membawa bahagia dunia akhirat. So pasti itu dambaan setiap kita, bukan? Namun, impian tidak selalu menjadi kenyataan. Virus corona (COVID19) melanda dunia. Situasi pandemi covid 19 telah membuat semuanya berubah. Eits, tunggu dulu! Pandemi bukan harga mati. Kita terus belajar, menjelajah kejadian dan peristiwa yang mampu menjadi sumber inspirasi kehidupan. Kita menjadi kaya akan pengalaman hidup, menyuarakan perasaan dalam bentuk kata per kata terhadap prespektif, pengalaman, bahkan khayalan. Kita sudah membuktikannya. Kita mampu tetap berkarya dan bahagia. </item>
+        <item>Ini adalah kisah tentang Jim, dari Kisah Sang Penandai, yang terpilih untuk mengguratkan cerita tentang berdamai dengan masa lalu. Ia pun harus menyelesaikan pahit getir perjalanannya, apa pun harganya! Karena sungguh kita membutuhkan dongeng ini.</item>
+        <item>Everyone else was just letters. You, are my love letter.” This is not poetry. Just a collection of notes and letters I wrote in my mind but I never had the chance to show it to you. Until now.</item>
+        <item>Yang istimewa dari Laluba adalah kemampuan pengarangnya mengelola ungkapan dunia dalam dengan menggunakan bahasa memikat yang minim kata kata ganjil. Ini tentu susah. Dunia batin ini dibangun dari aktivasi indera yang cermat. Tapi detail yang dipaparkan ini bukan macam suatu pameran pengetahuan yang kenes, melainkan sesuatu yang berhenti dan masuk ke dalam dan menjadi metafora metafora yang tak terduga.</item>
+        <item>Diam diam dia sepakat dengan pendapat sebagian filsuf, bahwa bukan cuma atas kehidupan seseorang memiliki otoritas, tapi juga atas kematian. Sepuluh cerita dalam buku ini memotret kisah kisah mereka yang hidup di tepian, yang suaranya selalu dipinggirkan. Tak melulu di pelosok Indonesia, suara mereka pun terbungkam di berberapa kawasan Eropa. Ada haru ibu yang mengetahui anaknya pelaku terorisme. Ada seorang suami dengan preferensi seksual yang berbeda. Ada sepotong kesedihan pekerja di luar negeri. Ada juga sepenggal ingatan mengerikan atas ledakan nuklir di Chernobyl.</item>
+        <item>Ini satu lagi buku lawas Eka Kurniawan yang terbit ulang dengan cover baru dan beberapa perubahan dari edisi sebelumnya. Buku buku lawas Eka terus dicari, terutama oleh penggemar barunya. Mereka kerap meminta buku lawas penulis novel O ini diterbitkan ulang. Dan terbukti, begitu buku kumpulan cerpen Cinta Tak Ada Mati terbit ulang, langsung bertengger di deretan buku laris akhir tahun kemarin. Untuk itu tak salah jika termasuk e book kumpulan cerpen yang favorit di kalangan pecinta cerpen nih. Tidak hanya itu, buku ini juga meraih penghargaan Sastra Kementerian Pendidikan dan Kebudayaan pada Oktober 2018. Buku ini menghimpun 13 cerpen yang semuanya khas Eka: cerita yang tak biasa, dialog intens dan narasi yang tak pernah terasa membosankan.</item>
+    </string-array>
+</resources>
